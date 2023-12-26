@@ -1,4 +1,5 @@
 ---
+## https://docs.hugoblox.com/reference/domain/
 # Display name
 title: Abdallah Hashem
 
@@ -22,15 +23,16 @@ role: IC Validation Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Qualcomm
-    url: https://www.stanford.edu/
+    url: https://www.qualcomm.com/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Digital Design
+  - Digital Verification
   - Information Retrieval
 
 # Education to show in About widget
@@ -117,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abdallah Hashem is an IC Validation Engineer at Qualcomm. My main work involves....
 {style="text-align: justify;"}
